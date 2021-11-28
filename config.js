@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Send my love <3",
-    introTitle: 'Hello, chị Vân',
+    introTitle: 'Hello, chị Vân cute',
     introDesc: `Chị thử mở tiếp xem còn gì nè 🥰`,
     btnIntro: '^^Tiếp đi! hihi^^',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
